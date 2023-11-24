@@ -159,11 +159,6 @@ elif test -x /bin/netstat; then
     fi
 fi
 
-if test -z "$maindir"; then
-    echo "Error: could not determine your directory."
-    exit 1
-fi
-
 has_network || create_network
 
 if $clean; then
