@@ -8,3 +8,4 @@ sudo apt upgrade cmake gnuplot libglfw3-dev
 sudo apt-get install libfftw3-3
 sudo apt-get install libfftw3-dev
 sudo apt-get install xz-utils
+sudo apt-get install klayout
