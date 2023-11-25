@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt install -y build-essential pkg-config
+sudo apt install -y build-essential pkg-config make
 sudo apt-get install -y python3 tcsh tcl-dev tk-dev libcairo2-dev m4
 sudo apt-get install vim
 sudo apt-get install valgrind
